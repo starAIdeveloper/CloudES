@@ -1,0 +1,4973 @@
+{
+  "name": "Riverside Office · Concept",
+  "elements": [
+    {
+      "id": "CE-0001",
+      "name": "Level 0 slab",
+      "category": "Slabs",
+      "floor": 0,
+      "size": [
+        30,
+        0.28,
+        18
+      ],
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "color": "#b8c3cc",
+      "material": "Reinforced concrete"
+    },
+    {
+      "id": "CE-0002",
+      "name": "Column 0/-13/-7",
+      "category": "Columns",
+      "floor": 0,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        1.8,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0003",
+      "name": "Column 0/-13/0",
+      "category": "Columns",
+      "floor": 0,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        1.8,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0004",
+      "name": "Column 0/-13/7",
+      "category": "Columns",
+      "floor": 0,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        1.8,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0005",
+      "name": "Column 0/-5/-7",
+      "category": "Columns",
+      "floor": 0,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        1.8,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0006",
+      "name": "Column 0/-5/0",
+      "category": "Columns",
+      "floor": 0,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        1.8,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0007",
+      "name": "Column 0/-5/7",
+      "category": "Columns",
+      "floor": 0,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        1.8,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0008",
+      "name": "Column 0/5/-7",
+      "category": "Columns",
+      "floor": 0,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        1.8,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0009",
+      "name": "Column 0/5/0",
+      "category": "Columns",
+      "floor": 0,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        1.8,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0010",
+      "name": "Column 0/5/7",
+      "category": "Columns",
+      "floor": 0,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        1.8,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0011",
+      "name": "Column 0/13/-7",
+      "category": "Columns",
+      "floor": 0,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        1.8,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0012",
+      "name": "Column 0/13/0",
+      "category": "Columns",
+      "floor": 0,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        1.8,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0013",
+      "name": "Column 0/13/7",
+      "category": "Columns",
+      "floor": 0,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        1.8,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0014",
+      "name": "Facade panel 0/-12/-8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -12,
+        1.85,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0015",
+      "name": "Mullion 0/-12/-8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -10.6,
+        1.8,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0016",
+      "name": "Facade panel 0/-12/8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -12,
+        1.85,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0017",
+      "name": "Mullion 0/-12/8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -10.6,
+        1.8,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0018",
+      "name": "Facade panel 0/-9/-8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -9,
+        1.85,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0019",
+      "name": "Mullion 0/-9/-8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -7.6,
+        1.8,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0020",
+      "name": "Facade panel 0/-9/8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -9,
+        1.85,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0021",
+      "name": "Mullion 0/-9/8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -7.6,
+        1.8,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0022",
+      "name": "Facade panel 0/-6/-8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -6,
+        1.85,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0023",
+      "name": "Mullion 0/-6/-8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -4.6,
+        1.8,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0024",
+      "name": "Facade panel 0/-6/8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -6,
+        1.85,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0025",
+      "name": "Mullion 0/-6/8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -4.6,
+        1.8,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0026",
+      "name": "Facade panel 0/-3/-8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -3,
+        1.85,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0027",
+      "name": "Mullion 0/-3/-8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -1.6,
+        1.8,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0028",
+      "name": "Facade panel 0/-3/8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -3,
+        1.85,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0029",
+      "name": "Mullion 0/-3/8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -1.6,
+        1.8,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0030",
+      "name": "Facade panel 0/0/-8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        0,
+        1.85,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0031",
+      "name": "Mullion 0/0/-8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        1.4,
+        1.8,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0032",
+      "name": "Facade panel 0/0/8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        0,
+        1.85,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0033",
+      "name": "Mullion 0/0/8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        1.4,
+        1.8,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0034",
+      "name": "Facade panel 0/3/-8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        3,
+        1.85,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0035",
+      "name": "Mullion 0/3/-8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        4.4,
+        1.8,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0036",
+      "name": "Facade panel 0/3/8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        3,
+        1.85,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0037",
+      "name": "Mullion 0/3/8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        4.4,
+        1.8,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0038",
+      "name": "Facade panel 0/6/-8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        6,
+        1.85,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0039",
+      "name": "Mullion 0/6/-8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        7.4,
+        1.8,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0040",
+      "name": "Facade panel 0/6/8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        6,
+        1.85,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0041",
+      "name": "Mullion 0/6/8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        7.4,
+        1.8,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0042",
+      "name": "Facade panel 0/9/-8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        9,
+        1.85,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0043",
+      "name": "Mullion 0/9/-8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        10.4,
+        1.8,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0044",
+      "name": "Facade panel 0/9/8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        9,
+        1.85,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0045",
+      "name": "Mullion 0/9/8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        10.4,
+        1.8,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0046",
+      "name": "Facade panel 0/12/-8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        12,
+        1.85,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0047",
+      "name": "Mullion 0/12/-8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        13.4,
+        1.8,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0048",
+      "name": "Facade panel 0/12/8.7",
+      "category": "Windows",
+      "floor": 0,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        12,
+        1.85,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0049",
+      "name": "Mullion 0/12/8.7",
+      "category": "Beams",
+      "floor": 0,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        13.4,
+        1.8,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0050",
+      "name": "End wall 0/-14.8",
+      "category": "Walls",
+      "floor": 0,
+      "size": [
+        0.25,
+        3.2,
+        17.6
+      ],
+      "position": [
+        -14.8,
+        1.8,
+        0
+      ],
+      "color": "#d0d5db",
+      "material": "Precast concrete"
+    },
+    {
+      "id": "CE-0051",
+      "name": "End wall 0/14.8",
+      "category": "Walls",
+      "floor": 0,
+      "size": [
+        0.25,
+        3.2,
+        17.6
+      ],
+      "position": [
+        14.8,
+        1.8,
+        0
+      ],
+      "color": "#d0d5db",
+      "material": "Precast concrete"
+    },
+    {
+      "id": "CE-0052",
+      "name": "Service core 0",
+      "category": "Walls",
+      "floor": 0,
+      "size": [
+        3.8,
+        3.4,
+        4.2
+      ],
+      "position": [
+        0,
+        1.8,
+        0
+      ],
+      "color": "#9baaba",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0053",
+      "name": "Service run 0/0",
+      "category": "MEP",
+      "floor": 0,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        3.15,
+        -3
+      ],
+      "color": "#f49b42",
+      "material": "Supply"
+    },
+    {
+      "id": "CE-0054",
+      "name": "Service run 0/1",
+      "category": "MEP",
+      "floor": 0,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        3.15,
+        -2.4
+      ],
+      "color": "#55bba6",
+      "material": "Return"
+    },
+    {
+      "id": "CE-0055",
+      "name": "Service run 0/2",
+      "category": "MEP",
+      "floor": 0,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        3.15,
+        -1.8
+      ],
+      "color": "#5586e4",
+      "material": "Electrical"
+    },
+    {
+      "id": "CE-0056",
+      "name": "Level 1 slab",
+      "category": "Slabs",
+      "floor": 1,
+      "size": [
+        30,
+        0.28,
+        18
+      ],
+      "position": [
+        0,
+        3.6,
+        0
+      ],
+      "color": "#b8c3cc",
+      "material": "Reinforced concrete"
+    },
+    {
+      "id": "CE-0057",
+      "name": "Column 1/-13/-7",
+      "category": "Columns",
+      "floor": 1,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        5.4,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0058",
+      "name": "Column 1/-13/0",
+      "category": "Columns",
+      "floor": 1,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        5.4,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0059",
+      "name": "Column 1/-13/7",
+      "category": "Columns",
+      "floor": 1,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        5.4,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0060",
+      "name": "Column 1/-5/-7",
+      "category": "Columns",
+      "floor": 1,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        5.4,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0061",
+      "name": "Column 1/-5/0",
+      "category": "Columns",
+      "floor": 1,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        5.4,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0062",
+      "name": "Column 1/-5/7",
+      "category": "Columns",
+      "floor": 1,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        5.4,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0063",
+      "name": "Column 1/5/-7",
+      "category": "Columns",
+      "floor": 1,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        5.4,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0064",
+      "name": "Column 1/5/0",
+      "category": "Columns",
+      "floor": 1,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        5.4,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0065",
+      "name": "Column 1/5/7",
+      "category": "Columns",
+      "floor": 1,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        5.4,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0066",
+      "name": "Column 1/13/-7",
+      "category": "Columns",
+      "floor": 1,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        5.4,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0067",
+      "name": "Column 1/13/0",
+      "category": "Columns",
+      "floor": 1,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        5.4,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0068",
+      "name": "Column 1/13/7",
+      "category": "Columns",
+      "floor": 1,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        5.4,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0069",
+      "name": "Facade panel 1/-12/-8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -12,
+        5.45,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0070",
+      "name": "Mullion 1/-12/-8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -10.6,
+        5.4,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0071",
+      "name": "Facade panel 1/-12/8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -12,
+        5.45,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0072",
+      "name": "Mullion 1/-12/8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -10.6,
+        5.4,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0073",
+      "name": "Facade panel 1/-9/-8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -9,
+        5.45,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0074",
+      "name": "Mullion 1/-9/-8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -7.6,
+        5.4,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0075",
+      "name": "Facade panel 1/-9/8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -9,
+        5.45,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0076",
+      "name": "Mullion 1/-9/8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -7.6,
+        5.4,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0077",
+      "name": "Facade panel 1/-6/-8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -6,
+        5.45,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0078",
+      "name": "Mullion 1/-6/-8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -4.6,
+        5.4,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0079",
+      "name": "Facade panel 1/-6/8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -6,
+        5.45,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0080",
+      "name": "Mullion 1/-6/8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -4.6,
+        5.4,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0081",
+      "name": "Facade panel 1/-3/-8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -3,
+        5.45,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0082",
+      "name": "Mullion 1/-3/-8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -1.6,
+        5.4,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0083",
+      "name": "Facade panel 1/-3/8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -3,
+        5.45,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0084",
+      "name": "Mullion 1/-3/8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -1.6,
+        5.4,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0085",
+      "name": "Facade panel 1/0/-8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        0,
+        5.45,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0086",
+      "name": "Mullion 1/0/-8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        1.4,
+        5.4,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0087",
+      "name": "Facade panel 1/0/8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        0,
+        5.45,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0088",
+      "name": "Mullion 1/0/8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        1.4,
+        5.4,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0089",
+      "name": "Facade panel 1/3/-8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        3,
+        5.45,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0090",
+      "name": "Mullion 1/3/-8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        4.4,
+        5.4,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0091",
+      "name": "Facade panel 1/3/8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        3,
+        5.45,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0092",
+      "name": "Mullion 1/3/8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        4.4,
+        5.4,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0093",
+      "name": "Facade panel 1/6/-8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        6,
+        5.45,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0094",
+      "name": "Mullion 1/6/-8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        7.4,
+        5.4,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0095",
+      "name": "Facade panel 1/6/8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        6,
+        5.45,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0096",
+      "name": "Mullion 1/6/8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        7.4,
+        5.4,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0097",
+      "name": "Facade panel 1/9/-8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        9,
+        5.45,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0098",
+      "name": "Mullion 1/9/-8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        10.4,
+        5.4,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0099",
+      "name": "Facade panel 1/9/8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        9,
+        5.45,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0100",
+      "name": "Mullion 1/9/8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        10.4,
+        5.4,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0101",
+      "name": "Facade panel 1/12/-8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        12,
+        5.45,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0102",
+      "name": "Mullion 1/12/-8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        13.4,
+        5.4,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0103",
+      "name": "Facade panel 1/12/8.7",
+      "category": "Windows",
+      "floor": 1,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        12,
+        5.45,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0104",
+      "name": "Mullion 1/12/8.7",
+      "category": "Beams",
+      "floor": 1,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        13.4,
+        5.4,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0105",
+      "name": "End wall 1/-14.8",
+      "category": "Walls",
+      "floor": 1,
+      "size": [
+        0.25,
+        3.2,
+        17.6
+      ],
+      "position": [
+        -14.8,
+        5.4,
+        0
+      ],
+      "color": "#d0d5db",
+      "material": "Precast concrete"
+    },
+    {
+      "id": "CE-0106",
+      "name": "End wall 1/14.8",
+      "category": "Walls",
+      "floor": 1,
+      "size": [
+        0.25,
+        3.2,
+        17.6
+      ],
+      "position": [
+        14.8,
+        5.4,
+        0
+      ],
+      "color": "#d0d5db",
+      "material": "Precast concrete"
+    },
+    {
+      "id": "CE-0107",
+      "name": "Service core 1",
+      "category": "Walls",
+      "floor": 1,
+      "size": [
+        3.8,
+        3.4,
+        4.2
+      ],
+      "position": [
+        0,
+        5.4,
+        0
+      ],
+      "color": "#9baaba",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0108",
+      "name": "Service run 1/0",
+      "category": "MEP",
+      "floor": 1,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        6.75,
+        -3
+      ],
+      "color": "#f49b42",
+      "material": "Supply"
+    },
+    {
+      "id": "CE-0109",
+      "name": "Service run 1/1",
+      "category": "MEP",
+      "floor": 1,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        6.75,
+        -2.4
+      ],
+      "color": "#55bba6",
+      "material": "Return"
+    },
+    {
+      "id": "CE-0110",
+      "name": "Service run 1/2",
+      "category": "MEP",
+      "floor": 1,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        6.75,
+        -1.8
+      ],
+      "color": "#5586e4",
+      "material": "Electrical"
+    },
+    {
+      "id": "CE-0111",
+      "name": "Level 2 slab",
+      "category": "Slabs",
+      "floor": 2,
+      "size": [
+        30,
+        0.28,
+        18
+      ],
+      "position": [
+        0,
+        7.2,
+        0
+      ],
+      "color": "#b8c3cc",
+      "material": "Reinforced concrete"
+    },
+    {
+      "id": "CE-0112",
+      "name": "Column 2/-13/-7",
+      "category": "Columns",
+      "floor": 2,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        9,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0113",
+      "name": "Column 2/-13/0",
+      "category": "Columns",
+      "floor": 2,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        9,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0114",
+      "name": "Column 2/-13/7",
+      "category": "Columns",
+      "floor": 2,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        9,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0115",
+      "name": "Column 2/-5/-7",
+      "category": "Columns",
+      "floor": 2,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        9,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0116",
+      "name": "Column 2/-5/0",
+      "category": "Columns",
+      "floor": 2,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        9,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0117",
+      "name": "Column 2/-5/7",
+      "category": "Columns",
+      "floor": 2,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        9,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0118",
+      "name": "Column 2/5/-7",
+      "category": "Columns",
+      "floor": 2,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        9,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0119",
+      "name": "Column 2/5/0",
+      "category": "Columns",
+      "floor": 2,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        9,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0120",
+      "name": "Column 2/5/7",
+      "category": "Columns",
+      "floor": 2,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        9,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0121",
+      "name": "Column 2/13/-7",
+      "category": "Columns",
+      "floor": 2,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        9,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0122",
+      "name": "Column 2/13/0",
+      "category": "Columns",
+      "floor": 2,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        9,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0123",
+      "name": "Column 2/13/7",
+      "category": "Columns",
+      "floor": 2,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        9,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0124",
+      "name": "Facade panel 2/-12/-8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -12,
+        9.05,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0125",
+      "name": "Mullion 2/-12/-8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -10.6,
+        9,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0126",
+      "name": "Facade panel 2/-12/8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -12,
+        9.05,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0127",
+      "name": "Mullion 2/-12/8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -10.6,
+        9,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0128",
+      "name": "Facade panel 2/-9/-8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -9,
+        9.05,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0129",
+      "name": "Mullion 2/-9/-8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -7.6,
+        9,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0130",
+      "name": "Facade panel 2/-9/8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -9,
+        9.05,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0131",
+      "name": "Mullion 2/-9/8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -7.6,
+        9,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0132",
+      "name": "Facade panel 2/-6/-8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -6,
+        9.05,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0133",
+      "name": "Mullion 2/-6/-8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -4.6,
+        9,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0134",
+      "name": "Facade panel 2/-6/8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -6,
+        9.05,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0135",
+      "name": "Mullion 2/-6/8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -4.6,
+        9,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0136",
+      "name": "Facade panel 2/-3/-8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -3,
+        9.05,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0137",
+      "name": "Mullion 2/-3/-8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -1.6,
+        9,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0138",
+      "name": "Facade panel 2/-3/8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -3,
+        9.05,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0139",
+      "name": "Mullion 2/-3/8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -1.6,
+        9,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0140",
+      "name": "Facade panel 2/0/-8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        0,
+        9.05,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0141",
+      "name": "Mullion 2/0/-8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        1.4,
+        9,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0142",
+      "name": "Facade panel 2/0/8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        0,
+        9.05,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0143",
+      "name": "Mullion 2/0/8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        1.4,
+        9,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0144",
+      "name": "Facade panel 2/3/-8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        3,
+        9.05,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0145",
+      "name": "Mullion 2/3/-8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        4.4,
+        9,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0146",
+      "name": "Facade panel 2/3/8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        3,
+        9.05,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0147",
+      "name": "Mullion 2/3/8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        4.4,
+        9,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0148",
+      "name": "Facade panel 2/6/-8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        6,
+        9.05,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0149",
+      "name": "Mullion 2/6/-8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        7.4,
+        9,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0150",
+      "name": "Facade panel 2/6/8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        6,
+        9.05,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0151",
+      "name": "Mullion 2/6/8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        7.4,
+        9,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0152",
+      "name": "Facade panel 2/9/-8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        9,
+        9.05,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0153",
+      "name": "Mullion 2/9/-8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        10.4,
+        9,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0154",
+      "name": "Facade panel 2/9/8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        9,
+        9.05,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0155",
+      "name": "Mullion 2/9/8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        10.4,
+        9,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0156",
+      "name": "Facade panel 2/12/-8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        12,
+        9.05,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0157",
+      "name": "Mullion 2/12/-8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        13.4,
+        9,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0158",
+      "name": "Facade panel 2/12/8.7",
+      "category": "Windows",
+      "floor": 2,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        12,
+        9.05,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0159",
+      "name": "Mullion 2/12/8.7",
+      "category": "Beams",
+      "floor": 2,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        13.4,
+        9,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0160",
+      "name": "End wall 2/-14.8",
+      "category": "Walls",
+      "floor": 2,
+      "size": [
+        0.25,
+        3.2,
+        17.6
+      ],
+      "position": [
+        -14.8,
+        9,
+        0
+      ],
+      "color": "#d0d5db",
+      "material": "Precast concrete"
+    },
+    {
+      "id": "CE-0161",
+      "name": "End wall 2/14.8",
+      "category": "Walls",
+      "floor": 2,
+      "size": [
+        0.25,
+        3.2,
+        17.6
+      ],
+      "position": [
+        14.8,
+        9,
+        0
+      ],
+      "color": "#d0d5db",
+      "material": "Precast concrete"
+    },
+    {
+      "id": "CE-0162",
+      "name": "Service core 2",
+      "category": "Walls",
+      "floor": 2,
+      "size": [
+        3.8,
+        3.4,
+        4.2
+      ],
+      "position": [
+        0,
+        9,
+        0
+      ],
+      "color": "#9baaba",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0163",
+      "name": "Service run 2/0",
+      "category": "MEP",
+      "floor": 2,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        10.35,
+        -3
+      ],
+      "color": "#f49b42",
+      "material": "Supply"
+    },
+    {
+      "id": "CE-0164",
+      "name": "Service run 2/1",
+      "category": "MEP",
+      "floor": 2,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        10.35,
+        -2.4
+      ],
+      "color": "#55bba6",
+      "material": "Return"
+    },
+    {
+      "id": "CE-0165",
+      "name": "Service run 2/2",
+      "category": "MEP",
+      "floor": 2,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        10.35,
+        -1.8
+      ],
+      "color": "#5586e4",
+      "material": "Electrical"
+    },
+    {
+      "id": "CE-0166",
+      "name": "Level 3 slab",
+      "category": "Slabs",
+      "floor": 3,
+      "size": [
+        30,
+        0.28,
+        18
+      ],
+      "position": [
+        0,
+        10.8,
+        0
+      ],
+      "color": "#b8c3cc",
+      "material": "Reinforced concrete"
+    },
+    {
+      "id": "CE-0167",
+      "name": "Column 3/-13/-7",
+      "category": "Columns",
+      "floor": 3,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        12.600000000000001,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0168",
+      "name": "Column 3/-13/0",
+      "category": "Columns",
+      "floor": 3,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        12.600000000000001,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0169",
+      "name": "Column 3/-13/7",
+      "category": "Columns",
+      "floor": 3,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        12.600000000000001,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0170",
+      "name": "Column 3/-5/-7",
+      "category": "Columns",
+      "floor": 3,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        12.600000000000001,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0171",
+      "name": "Column 3/-5/0",
+      "category": "Columns",
+      "floor": 3,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        12.600000000000001,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0172",
+      "name": "Column 3/-5/7",
+      "category": "Columns",
+      "floor": 3,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        12.600000000000001,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0173",
+      "name": "Column 3/5/-7",
+      "category": "Columns",
+      "floor": 3,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        12.600000000000001,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0174",
+      "name": "Column 3/5/0",
+      "category": "Columns",
+      "floor": 3,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        12.600000000000001,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0175",
+      "name": "Column 3/5/7",
+      "category": "Columns",
+      "floor": 3,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        12.600000000000001,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0176",
+      "name": "Column 3/13/-7",
+      "category": "Columns",
+      "floor": 3,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        12.600000000000001,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0177",
+      "name": "Column 3/13/0",
+      "category": "Columns",
+      "floor": 3,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        12.600000000000001,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0178",
+      "name": "Column 3/13/7",
+      "category": "Columns",
+      "floor": 3,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        12.600000000000001,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0179",
+      "name": "Facade panel 3/-12/-8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -12,
+        12.65,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0180",
+      "name": "Mullion 3/-12/-8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -10.6,
+        12.600000000000001,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0181",
+      "name": "Facade panel 3/-12/8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -12,
+        12.65,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0182",
+      "name": "Mullion 3/-12/8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -10.6,
+        12.600000000000001,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0183",
+      "name": "Facade panel 3/-9/-8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -9,
+        12.65,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0184",
+      "name": "Mullion 3/-9/-8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -7.6,
+        12.600000000000001,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0185",
+      "name": "Facade panel 3/-9/8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -9,
+        12.65,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0186",
+      "name": "Mullion 3/-9/8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -7.6,
+        12.600000000000001,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0187",
+      "name": "Facade panel 3/-6/-8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -6,
+        12.65,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0188",
+      "name": "Mullion 3/-6/-8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -4.6,
+        12.600000000000001,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0189",
+      "name": "Facade panel 3/-6/8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -6,
+        12.65,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0190",
+      "name": "Mullion 3/-6/8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -4.6,
+        12.600000000000001,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0191",
+      "name": "Facade panel 3/-3/-8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -3,
+        12.65,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0192",
+      "name": "Mullion 3/-3/-8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -1.6,
+        12.600000000000001,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0193",
+      "name": "Facade panel 3/-3/8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -3,
+        12.65,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0194",
+      "name": "Mullion 3/-3/8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -1.6,
+        12.600000000000001,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0195",
+      "name": "Facade panel 3/0/-8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        0,
+        12.65,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0196",
+      "name": "Mullion 3/0/-8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        1.4,
+        12.600000000000001,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0197",
+      "name": "Facade panel 3/0/8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        0,
+        12.65,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0198",
+      "name": "Mullion 3/0/8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        1.4,
+        12.600000000000001,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0199",
+      "name": "Facade panel 3/3/-8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        3,
+        12.65,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0200",
+      "name": "Mullion 3/3/-8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        4.4,
+        12.600000000000001,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0201",
+      "name": "Facade panel 3/3/8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        3,
+        12.65,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0202",
+      "name": "Mullion 3/3/8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        4.4,
+        12.600000000000001,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0203",
+      "name": "Facade panel 3/6/-8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        6,
+        12.65,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0204",
+      "name": "Mullion 3/6/-8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        7.4,
+        12.600000000000001,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0205",
+      "name": "Facade panel 3/6/8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        6,
+        12.65,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0206",
+      "name": "Mullion 3/6/8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        7.4,
+        12.600000000000001,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0207",
+      "name": "Facade panel 3/9/-8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        9,
+        12.65,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0208",
+      "name": "Mullion 3/9/-8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        10.4,
+        12.600000000000001,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0209",
+      "name": "Facade panel 3/9/8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        9,
+        12.65,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0210",
+      "name": "Mullion 3/9/8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        10.4,
+        12.600000000000001,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0211",
+      "name": "Facade panel 3/12/-8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        12,
+        12.65,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0212",
+      "name": "Mullion 3/12/-8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        13.4,
+        12.600000000000001,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0213",
+      "name": "Facade panel 3/12/8.7",
+      "category": "Windows",
+      "floor": 3,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        12,
+        12.65,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0214",
+      "name": "Mullion 3/12/8.7",
+      "category": "Beams",
+      "floor": 3,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        13.4,
+        12.600000000000001,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0215",
+      "name": "End wall 3/-14.8",
+      "category": "Walls",
+      "floor": 3,
+      "size": [
+        0.25,
+        3.2,
+        17.6
+      ],
+      "position": [
+        -14.8,
+        12.600000000000001,
+        0
+      ],
+      "color": "#d0d5db",
+      "material": "Precast concrete"
+    },
+    {
+      "id": "CE-0216",
+      "name": "End wall 3/14.8",
+      "category": "Walls",
+      "floor": 3,
+      "size": [
+        0.25,
+        3.2,
+        17.6
+      ],
+      "position": [
+        14.8,
+        12.600000000000001,
+        0
+      ],
+      "color": "#d0d5db",
+      "material": "Precast concrete"
+    },
+    {
+      "id": "CE-0217",
+      "name": "Service core 3",
+      "category": "Walls",
+      "floor": 3,
+      "size": [
+        3.8,
+        3.4,
+        4.2
+      ],
+      "position": [
+        0,
+        12.600000000000001,
+        0
+      ],
+      "color": "#9baaba",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0218",
+      "name": "Service run 3/0",
+      "category": "MEP",
+      "floor": 3,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        13.950000000000001,
+        -3
+      ],
+      "color": "#f49b42",
+      "material": "Supply"
+    },
+    {
+      "id": "CE-0219",
+      "name": "Service run 3/1",
+      "category": "MEP",
+      "floor": 3,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        13.950000000000001,
+        -2.4
+      ],
+      "color": "#55bba6",
+      "material": "Return"
+    },
+    {
+      "id": "CE-0220",
+      "name": "Service run 3/2",
+      "category": "MEP",
+      "floor": 3,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        13.950000000000001,
+        -1.8
+      ],
+      "color": "#5586e4",
+      "material": "Electrical"
+    },
+    {
+      "id": "CE-0221",
+      "name": "Level 4 slab",
+      "category": "Slabs",
+      "floor": 4,
+      "size": [
+        30,
+        0.28,
+        18
+      ],
+      "position": [
+        0,
+        14.4,
+        0
+      ],
+      "color": "#b8c3cc",
+      "material": "Reinforced concrete"
+    },
+    {
+      "id": "CE-0222",
+      "name": "Column 4/-13/-7",
+      "category": "Columns",
+      "floor": 4,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        16.2,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0223",
+      "name": "Column 4/-13/0",
+      "category": "Columns",
+      "floor": 4,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        16.2,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0224",
+      "name": "Column 4/-13/7",
+      "category": "Columns",
+      "floor": 4,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -13,
+        16.2,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0225",
+      "name": "Column 4/-5/-7",
+      "category": "Columns",
+      "floor": 4,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        16.2,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0226",
+      "name": "Column 4/-5/0",
+      "category": "Columns",
+      "floor": 4,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        16.2,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0227",
+      "name": "Column 4/-5/7",
+      "category": "Columns",
+      "floor": 4,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        -5,
+        16.2,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0228",
+      "name": "Column 4/5/-7",
+      "category": "Columns",
+      "floor": 4,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        16.2,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0229",
+      "name": "Column 4/5/0",
+      "category": "Columns",
+      "floor": 4,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        16.2,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0230",
+      "name": "Column 4/5/7",
+      "category": "Columns",
+      "floor": 4,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        5,
+        16.2,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0231",
+      "name": "Column 4/13/-7",
+      "category": "Columns",
+      "floor": 4,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        16.2,
+        -7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0232",
+      "name": "Column 4/13/0",
+      "category": "Columns",
+      "floor": 4,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        16.2,
+        0
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0233",
+      "name": "Column 4/13/7",
+      "category": "Columns",
+      "floor": 4,
+      "size": [
+        0.55,
+        3.6,
+        0.55
+      ],
+      "position": [
+        13,
+        16.2,
+        7
+      ],
+      "color": "#e2e5e7",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0234",
+      "name": "Facade panel 4/-12/-8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -12,
+        16.25,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0235",
+      "name": "Mullion 4/-12/-8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -10.6,
+        16.2,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0236",
+      "name": "Facade panel 4/-12/8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -12,
+        16.25,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0237",
+      "name": "Mullion 4/-12/8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -10.6,
+        16.2,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0238",
+      "name": "Facade panel 4/-9/-8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -9,
+        16.25,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0239",
+      "name": "Mullion 4/-9/-8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -7.6,
+        16.2,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0240",
+      "name": "Facade panel 4/-9/8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -9,
+        16.25,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0241",
+      "name": "Mullion 4/-9/8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -7.6,
+        16.2,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0242",
+      "name": "Facade panel 4/-6/-8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -6,
+        16.25,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0243",
+      "name": "Mullion 4/-6/-8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -4.6,
+        16.2,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0244",
+      "name": "Facade panel 4/-6/8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -6,
+        16.25,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0245",
+      "name": "Mullion 4/-6/8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -4.6,
+        16.2,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0246",
+      "name": "Facade panel 4/-3/-8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -3,
+        16.25,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0247",
+      "name": "Mullion 4/-3/-8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -1.6,
+        16.2,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0248",
+      "name": "Facade panel 4/-3/8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        -3,
+        16.25,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0249",
+      "name": "Mullion 4/-3/8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        -1.6,
+        16.2,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0250",
+      "name": "Facade panel 4/0/-8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        0,
+        16.25,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0251",
+      "name": "Mullion 4/0/-8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        1.4,
+        16.2,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0252",
+      "name": "Facade panel 4/0/8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        0,
+        16.25,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0253",
+      "name": "Mullion 4/0/8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        1.4,
+        16.2,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0254",
+      "name": "Facade panel 4/3/-8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        3,
+        16.25,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0255",
+      "name": "Mullion 4/3/-8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        4.4,
+        16.2,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0256",
+      "name": "Facade panel 4/3/8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        3,
+        16.25,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0257",
+      "name": "Mullion 4/3/8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        4.4,
+        16.2,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0258",
+      "name": "Facade panel 4/6/-8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        6,
+        16.25,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0259",
+      "name": "Mullion 4/6/-8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        7.4,
+        16.2,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0260",
+      "name": "Facade panel 4/6/8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        6,
+        16.25,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0261",
+      "name": "Mullion 4/6/8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        7.4,
+        16.2,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0262",
+      "name": "Facade panel 4/9/-8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        9,
+        16.25,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0263",
+      "name": "Mullion 4/9/-8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        10.4,
+        16.2,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0264",
+      "name": "Facade panel 4/9/8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        9,
+        16.25,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0265",
+      "name": "Mullion 4/9/8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        10.4,
+        16.2,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0266",
+      "name": "Facade panel 4/12/-8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        12,
+        16.25,
+        -8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0267",
+      "name": "Mullion 4/12/-8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        13.4,
+        16.2,
+        -8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0268",
+      "name": "Facade panel 4/12/8.7",
+      "category": "Windows",
+      "floor": 4,
+      "size": [
+        2.75,
+        2.8,
+        0.12
+      ],
+      "position": [
+        12,
+        16.25,
+        8.7
+      ],
+      "color": "#82b8ca",
+      "material": "Low-E glazing"
+    },
+    {
+      "id": "CE-0269",
+      "name": "Mullion 4/12/8.7",
+      "category": "Beams",
+      "floor": 4,
+      "size": [
+        0.1,
+        3.3,
+        0.2
+      ],
+      "position": [
+        13.4,
+        16.2,
+        8.7
+      ],
+      "color": "#425367",
+      "material": "Aluminium"
+    },
+    {
+      "id": "CE-0270",
+      "name": "End wall 4/-14.8",
+      "category": "Walls",
+      "floor": 4,
+      "size": [
+        0.25,
+        3.2,
+        17.6
+      ],
+      "position": [
+        -14.8,
+        16.2,
+        0
+      ],
+      "color": "#d0d5db",
+      "material": "Precast concrete"
+    },
+    {
+      "id": "CE-0271",
+      "name": "End wall 4/14.8",
+      "category": "Walls",
+      "floor": 4,
+      "size": [
+        0.25,
+        3.2,
+        17.6
+      ],
+      "position": [
+        14.8,
+        16.2,
+        0
+      ],
+      "color": "#d0d5db",
+      "material": "Precast concrete"
+    },
+    {
+      "id": "CE-0272",
+      "name": "Service core 4",
+      "category": "Walls",
+      "floor": 4,
+      "size": [
+        3.8,
+        3.4,
+        4.2
+      ],
+      "position": [
+        0,
+        16.2,
+        0
+      ],
+      "color": "#9baaba",
+      "material": "Concrete"
+    },
+    {
+      "id": "CE-0273",
+      "name": "Service run 4/0",
+      "category": "MEP",
+      "floor": 4,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        17.55,
+        -3
+      ],
+      "color": "#f49b42",
+      "material": "Supply"
+    },
+    {
+      "id": "CE-0274",
+      "name": "Service run 4/1",
+      "category": "MEP",
+      "floor": 4,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        17.55,
+        -2.4
+      ],
+      "color": "#55bba6",
+      "material": "Return"
+    },
+    {
+      "id": "CE-0275",
+      "name": "Service run 4/2",
+      "category": "MEP",
+      "floor": 4,
+      "size": [
+        23,
+        0.16,
+        0.16
+      ],
+      "position": [
+        0,
+        17.55,
+        -1.8
+      ],
+      "color": "#5586e4",
+      "material": "Electrical"
+    },
+    {
+      "id": "CE-0276",
+      "name": "Roof canopy",
+      "category": "Slabs",
+      "floor": 5,
+      "size": [
+        31,
+        0.32,
+        19
+      ],
+      "position": [
+        0,
+        18,
+        0
+      ],
+      "color": "#c8ced5",
+      "material": "Concrete"
+    }
+  ]
+}
