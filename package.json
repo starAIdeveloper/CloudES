@@ -1,1 +1,19 @@
-{"name":"cloudes","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","test":"node --test tests/*.test.js"},"dependencies":{"three":"0.180.0"},"devDependencies":{"vite":"6.4.1"}}
+{
+  "name": "cloudes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "test": "node --test tests/*.test.js",
+    "format:check": "prettier --check src tests/*.js index.html vite.config.js"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "vite": "6.4.1"
+  }
+}
