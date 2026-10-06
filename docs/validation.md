@@ -3,7 +3,7 @@
 Executed in the implementation workspace on 2026-10-06:
 
 - Six Node.js tests passed for geometry validation, unique identifiers, malformed geometry, visibility filtering, XYZ measurement and coordinate conversion.
-- Vite production build passed. Its main WebGL bundle is approximately 515 kB before gzip; Vite emits a size advisory, not a failed build.
+- Vite production build passed. Final build splits the application (approximately 17 kB) from Three.js (approximately 498 kB) before gzip.
 - Rendered browser validation results are recorded after execution below.
 
 The browser script uses Chromium with software WebGL in this environment. Desktop viewport 1512 × 980 and mobile viewport 390 × 844. These are automated browser checks, not real iPhone/Android hardware QA. GitHub Actions execution is not claimed until run by GitHub.

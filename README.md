@@ -36,7 +36,7 @@ This viewer accepts the documented JSON box geometry format. It does **not** par
 
 ## Quality checks
 
-`npm test` checks sample geometry, rejected input, filter composition, point distance and coordinate direction. GitHub Actions repeats these tests and the production build on pushes and PRs.
+`npm test` checks sample geometry, rejected input, filter composition, point distance and coordinate direction. GitHub Actions repeats these tests, rendered-browser checks and the production build on pushes and PRs.
 
 For actual rendered-browser checks:
 

@@ -1,9 +1,9 @@
 """Run with Python + Playwright installed. Uses local Chromium or CHROMIUM_PATH."""
-import os, subprocess,time,urllib.request,json
+import os, subprocess,time,urllib.request,json,signal
 from pathlib import Path
 from playwright.sync_api import sync_playwright,expect
 root=Path(__file__).resolve().parents[1]
-server=subprocess.Popen(['npm','run','dev','--','--host','127.0.0.1','--port','5192'],cwd=root,stdout=open(root/'server.log','w'),stderr=subprocess.STDOUT)
+server=subprocess.Popen(['npm','run','dev','--','--host','127.0.0.1','--port','5192'],cwd=root,stdout=open(root/'server.log','w'),stderr=subprocess.STDOUT,start_new_session=True)
 try:
  for _ in range(100):
   try: urllib.request.urlopen('http://127.0.0.1:5192');break
@@ -45,4 +45,6 @@ try:
   assert not errors,errors
   print(json.dumps({'browser':'Chromium software WebGL','desktop':'1512x980','mobile':'390x844 emulated viewport','checks':'render, actual raycast selection, filters, clipping, explode, reset, issue persistence, saved filters, site tab, import rejection and success, JSON/PNG downloads, no overflow','page_errors':errors}))
   b.close()
-finally:server.terminate();server.wait(timeout=10)
+finally:
+ os.killpg(server.pid,signal.SIGTERM)
+ server.wait(timeout=10)
